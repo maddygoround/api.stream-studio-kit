@@ -7,8 +7,6 @@ node_modules
 .idea
 .vscode
 .lh
-dist
-types
 dist-ssr
 db
 log.txt
